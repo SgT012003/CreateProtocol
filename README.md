@@ -4,11 +4,11 @@ CreateProtocol is a simple tool to create a protocol in Swift. It generates a Sw
 
 ## Supported Platforms
 
+Needs the .NET Core 8.0 Runtime to run the program.
+
 - Windwos 11
 - Windows 10
 - Windows 8.1
-- Windows 8
-- Windows 7
 
 ## Installation
 
