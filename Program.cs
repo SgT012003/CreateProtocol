@@ -16,6 +16,7 @@ namespace CreateProtocol
                 Console.WriteLine($"Call From Protocol:\n{args[0]}");
                 _ = protocol.Execute(Method.Uninstall, name);
             }
+            Console.ReadKey();
             return;
         }
     }
